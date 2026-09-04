@@ -1,5 +1,5 @@
 #  Movie Recommendation System
-#  Author : RANVEER SINGH KUSHWAH
+#  Author : ANURAG TIWARY
 
 import pandas as pd
 import numpy as np
